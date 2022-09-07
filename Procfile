@@ -1,1 +1,1 @@
-web: gunicorn PERDANA.wsgi --log-file -
+web: gunicorn first-app-bas.wsgi --log-file -
