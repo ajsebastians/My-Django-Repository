@@ -1,0 +1,1 @@
+web: gunicorn PERDANA.wsgi --log-file -
